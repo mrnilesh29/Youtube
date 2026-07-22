@@ -28,8 +28,7 @@ B = {3,4,5}
 print(A|B)
 print(A&B)
 print(B-A)
-print(A^B) #
-###
+
 
 
 
