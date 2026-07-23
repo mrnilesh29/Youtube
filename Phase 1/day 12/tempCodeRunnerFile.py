@@ -1,1 +1,2 @@
-obj2 = Factorymumbai()
+obj = shahuji()
+    
